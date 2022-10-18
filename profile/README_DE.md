@@ -1,6 +1,6 @@
 ## IPN
 
-Select language: EN | [DE](./README_DE.md)
+Select language: [EN](./README.md) | DE
 
 ### Abstrakt
 
