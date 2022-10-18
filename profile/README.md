@@ -1,6 +1,6 @@
 ## IPN
 
-Select language: EN | [DE](README_DE.md)
+Select language: EN | [DE](https://github.com/ipnsoftwares/.github/blob/main/profile/README_DE.md)
 
 ### Abstract
 
